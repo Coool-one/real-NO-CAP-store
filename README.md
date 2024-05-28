@@ -4,6 +4,7 @@
 real no cap store aims to be WISH.COM 2.0 by selling very very legit products
 our site uses html cuz umm we wanted it to be
 check out the website on replit
+<img src="preview.png" width="500">
 
 # where can i download this for myself
 you can download it from our replit page or the real-NO-CAP-store.zip
