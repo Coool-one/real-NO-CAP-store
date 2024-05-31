@@ -20,7 +20,8 @@ were bored
 
 # license
 we have our own license called SMPCL which you **DO NOT HAVE 
-THE PERRMISSION TO USE IT**
+THE PERRMISSION TO USE IT unless you redistribute
+our code**
 
 # links
 project on replit: https://replit.com/@Sarpmetepurple/real-NO-CAP-store
