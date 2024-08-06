@@ -11,17 +11,10 @@ folder. our replit will be updated all the time but we will
 update the one on github if we remember
 
 # creators
-we are 2 people NOT ONE making this store we like minecraft too
-and wanna make stuff for it too maybe we will and if we do 
-we will link it 
+its me and my friend who made this but now i maintain it
 
 # why did we do this
 were bored
 
-# license
-we have our own license called SMPCL which you **DO NOT HAVE 
-THE PERRMISSION TO USE IT unless you redistribute
-our code**
 
-# links
-project on replit: https://replit.com/@Sarpmetepurple/real-NO-CAP-store
+
