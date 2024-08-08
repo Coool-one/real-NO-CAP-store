@@ -18,5 +18,7 @@ its me and my friend who made this but now i maintain it
 # why did we do this
 were bored
 
+# is this site stupid
+**HELL YES**
 
 
